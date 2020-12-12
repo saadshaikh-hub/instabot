@@ -5,7 +5,7 @@ session. login()
 
 #following section
 
-session.set_do_follow=True, percentage-90, times=1)
+session.set_do_follow=False, percentage-90, times=1)
 
 #Comment section
 
