@@ -1,6 +1,6 @@
 from instapy import Instapy
 
-session =InstaPy(username="_freelancer.work_", password="freework.11")
+session =InstaPy(username="username", password="password")
 session. login()
 
 #following section
